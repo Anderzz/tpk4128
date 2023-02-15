@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/A.dir/A.c.o  -o A 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anders/ntnu/tpk4128/assignment2/D.c
+stdio.h
+-
+pthread.h
+-
+semaphore.h
+-
+unistd.h
+-
+

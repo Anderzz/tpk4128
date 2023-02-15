@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/B.dir/B.c.o  -o B  -pthread 

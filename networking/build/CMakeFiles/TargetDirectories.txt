@@ -1,0 +1,3 @@
+/home/anders/ntnu/tpk4128/networking/build/CMakeFiles/rebuild_cache.dir
+/home/anders/ntnu/tpk4128/networking/build/CMakeFiles/edit_cache.dir
+/home/anders/ntnu/tpk4128/networking/build/CMakeFiles/echo_client.dir

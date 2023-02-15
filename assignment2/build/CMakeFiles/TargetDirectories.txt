@@ -1,0 +1,6 @@
+/home/anders/ntnu/tpk4128/assignment2/build/CMakeFiles/rebuild_cache.dir
+/home/anders/ntnu/tpk4128/assignment2/build/CMakeFiles/edit_cache.dir
+/home/anders/ntnu/tpk4128/assignment2/build/CMakeFiles/B.dir
+/home/anders/ntnu/tpk4128/assignment2/build/CMakeFiles/D.dir
+/home/anders/ntnu/tpk4128/assignment2/build/CMakeFiles/C.dir
+/home/anders/ntnu/tpk4128/assignment2/build/CMakeFiles/A.dir
