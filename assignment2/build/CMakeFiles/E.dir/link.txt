@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/E.dir/E.c.o  -o E  -pthread 

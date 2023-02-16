@@ -14,8 +14,8 @@ memory address, so both processes increment it, thus it goes to 20. lVar is loca
 
 int main(){
     int lVar = 0;
-    pid_t pid = fork(); // fork a child process
-    //pid_t pid = vfork(); // fork a child process
+    //pid_t pid = fork(); // fork a child process
+    pid_t pid = vfork(); // fork a child process
     if (pid == 0){ // child process
         for (int i = 0; i < 10; i++){
             printf("Child is incrementing: gVar = %d, lVar = %d\n", gVar, lVar);
