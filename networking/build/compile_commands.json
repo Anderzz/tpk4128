@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/anders/ntnu/tpk4128/networking/build",
-  "command": "/usr/bin/gcc   -g   -o CMakeFiles/echo_client.dir/echo_client.c.o   -c /home/anders/ntnu/tpk4128/networking/echo_client.c",
-  "file": "/home/anders/ntnu/tpk4128/networking/echo_client.c"
-}
-]
